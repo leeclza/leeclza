@@ -6,9 +6,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeclza&show_icons=true&theme=dark" height="165" />
-  <img src="https://streak-stats.demolab.com?user=leeclza&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeclza&show_icons=true&theme=dark&cache_seconds=1800" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=leeclza&theme=dark&hide_border=true" />
 </p>
+
 
 <!--
 **leeclza/leeclza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
