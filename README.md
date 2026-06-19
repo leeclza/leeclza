@@ -1,9 +1,14 @@
 ## Hi there 👋
-## Connect With Me
+<h2 align="center">Connect With Me</h2>
 
-[![Instagram](https://img.shields.io/badge/@c.leonsra-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/c.leonsra)
-
-[![LinkedIn](https://img.shields.io/badge/Christopher%20Leon%20Saputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-leon-saputra-114402323/)
+<p align="center">
+  <a href="https://instagram.com/c.leonsra">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/christopher-leon-saputra-114402323/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+</p>
 
 ## Tech Stack
 
