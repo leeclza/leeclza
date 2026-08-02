@@ -1,6 +1,6 @@
 ## Hi there 👋
-<h2 align="center">Connect With Me</h2>
 
+<h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://instagram.com/c.leonsra">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/christopher-leon-saputra-114402323/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Laravel+Enthusiast;Currently+%40+ITERA" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
