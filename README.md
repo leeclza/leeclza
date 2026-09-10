@@ -53,6 +53,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=leeclza&theme=tokyonight)<br/>
+![](https://github-readme-stats-nine-kappa-90.vercel.app/api?username=leeclza&theme=tokyonight)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=leeclza&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leeclza&theme=tokyonight&layout=compact)
+![](https://github-readme-stats-nine-kappa-90.vercel.app/api/top-langs/?username=leeclza&theme=tokyonight&layout=compact)
