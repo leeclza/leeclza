@@ -39,7 +39,7 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,vercel,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,figma,canva" />
 </p>
 
 ---
