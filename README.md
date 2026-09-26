@@ -33,8 +33,6 @@
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-<p>
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
