@@ -20,7 +20,7 @@
 
 ### 🌐 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go" />
 </p>
 
 ### 📦 Frameworks & Libraries
