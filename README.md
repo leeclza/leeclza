@@ -30,12 +30,16 @@
   <img src="https://skillicons.dev/icons?i=gin" />
 </p>
 
-### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://skillicons.dev/icons?i=daisyui" />
 </p>
 
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=prisma" />
+</p>
 
 ### ⚙️ Tools & Platforms
 <p>
