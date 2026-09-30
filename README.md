@@ -25,21 +25,15 @@
 
 ### 📦 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel" />
-  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,daisyui,prisma" />
   <img src="https://skillicons.dev/icons?i=gin" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=prisma" />
-  <img src="https://skillicons.dev/icons?i=daisyui" />
-</p>
-
-### 🗄️ Databases & ORM
+### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-  <img src="https://skillicons.dev/icons?i=prisma" />
 </p>
+
 
 ### ⚙️ Tools & Platforms
 <p>
