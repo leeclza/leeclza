@@ -25,8 +25,7 @@
 
 ### 📦 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,daisyui,prisma" />
-  <img src="https://skillicons.dev/icons?i=gin" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,prisma" />
 </p>
 
 ### 🗄️ Databases
