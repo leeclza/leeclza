@@ -35,7 +35,7 @@
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,figma,canva,docker,git,github,npm,postman,eslint" />
+  <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,figma,docker,git,github,npm,postman,eslint" />
 </p>
 
 ---
