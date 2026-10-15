@@ -20,23 +20,22 @@
 
 ### 🌐 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp,java,go,sass" />
 </p>
 
 ### 📦 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,prisma" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,laravel,prisma,nodejs" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
-
 
 ### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,vite,vercel,figma,canva,docker,git,github,npm,postman,eslint" />
 </p>
 
 ---
