@@ -1,13 +1,14 @@
-## Hi there 👋
-## Kerjain aja dulu ☕
+<h1 align="center">Hi there 👋</h1>
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=leeclza&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/leeclza"
-  width="600"
-  height="300"
-/>
-</a>
+<p align="center">
+  <b>Kerjain aja dulu ☕</b>
+</p>
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=leeclza&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/leeclza" width="500" height="300" />
+  </a>
+</p>
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
