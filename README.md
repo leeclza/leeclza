@@ -4,7 +4,7 @@
   <b>Kerjain aja dulu ☕</b>
 </p>
 
-
+<p align="center">
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=leeclza&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/leeclza?pet-id=902358635263775572"
@@ -12,6 +12,7 @@
     height="300"
   />
 </a>
+</p>
   
 <h2 align="center">Connect With Me</h2>
 <p align="center">
