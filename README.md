@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=leeclza&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/leeclza?pet-id=903929477944794560"
-    width="500"
-    height="300"
-  />
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=leeclza&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/leeclza"
+  width="600"
+  height="300"
+/>
 </a>
 </p>
   
